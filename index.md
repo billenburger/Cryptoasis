@@ -4,14 +4,18 @@ We r just a smol community with lots of dumb big brains, making money in crypto.
 
 ### Links
 [Telegram Announcements](https://t.me/CryptOasisDS)
+
 [Telegram Chat](https://t.me/CryptOasisChat)
+
 [Discord](https://discord.gg/Wt9ZSgXm)
+
 [Twitter](https://twitter.com/CryptOasisDS)
 
 
 
 ### Contract
 0xd9c99510a5e3145359d91fe9caf92dd5d68b603a
+
 [Pancake Swap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xd9c99510a5e3145359d91fe9caf92dd5d68b603a)
 
 ## Source Code
