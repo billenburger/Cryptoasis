@@ -19,6 +19,7 @@ We r just a smol community with lots of dumb big brains, making money in crypto.
 [Pancake Swap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xd9c99510a5e3145359d91fe9caf92dd5d68b603a)
 
 ## Source Code
+```
 ```solidity
 /**
  *Submitted for verification at BscScan.com on 2021-04-24
@@ -1180,4 +1181,4 @@ contract Oasis is Context, IERC20, Ownable {
 
 }
 ```
-
+```
