@@ -30,6 +30,12 @@ Launch Price = 1,250,000,000,000 Oasis
 
 ### Presale Info
 
+Start: 2021/04/25 09:00 AM
+
+End: 2021/04/30 08:00 PM
+
+Liquidity Unlock: 2023/01/01 12:00 AM
+
 Softcap: 15 BNB
 
 Hardcap: 20 BNB
