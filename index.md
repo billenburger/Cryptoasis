@@ -11,7 +11,7 @@ We r just a smol community with lots of dumb big brains, making money in crypto.
 
 [Twitter](https://twitter.com/CryptOasisDS)
 
-50% Supply Burn TX: https://bscscan.com/tx/0x17f604bdba8df3bf672934cfa44621a1a04e36bb2f8dde83d97649d4f2d34707
+[50% Supply Burn TX](https://bscscan.com/tx/0x17f604bdba8df3bf672934cfa44621a1a04e36bb2f8dde83d97649d4f2d34707)
 
 
 ### Token Info
