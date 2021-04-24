@@ -1,6 +1,6 @@
 ## Welcome to the Oasis
 
-We r just a smol community with lots of dumb big brains, making money in crypto. Safemoon is stupid. We r better. Simple as that. If u no fuck w tha vision vro, have fun being poor. Anyways, here's Wonderwall.
+We r just a smol community with lots of dumb big brains, making money in crypto. Safemoon is stupid. We r better. Simple as that. If u no fuck w tha vision vro, have fun being poor. Anyways, here's [Wonderwall.](https://www.youtube.com/watch?v=6hzrDeceEKc)
 
 ### Links
 [Telegram Announcements](https://t.me/CryptOasisDS)
@@ -30,9 +30,9 @@ Launch Price = 1,250,000,000,000 Oasis
 
 ### Presale Info
 
-Start: 2021/04/25 09:00 AM
+Start: 2021/04/25 01:00 PM
 
-End: 2021/04/30 08:00 PM
+End: 2021/04/25 03:00 PM
 
 Liquidity Unlock: 2023/01/01 12:00 AM
 
