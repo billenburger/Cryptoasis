@@ -14,6 +14,32 @@ We r just a smol community with lots of dumb big brains, making money in crypto.
 50% Supply Burn TX: https://bscscan.com/tx/0x17f604bdba8df3bf672934cfa44621a1a04e36bb2f8dde83d97649d4f2d34707
 
 
+### Token Info
+
+Original Supply:1,000,000,000,000,000
+
+Supply: 500,000,000,000,000
+
+Presale Price: 1 BNB = 5,000,000,000,000 Oasis
+
+Launch Price = 1,250,000,000,000 Oasis
+
+5% of all trades are redistributed to holders
+
+5% of all trades are auto-locked inside liquidity provider on PancakeSwap
+
+### Presale Info
+
+Softcap: 15 BNB
+
+Hardcap: 20 BNB
+
+Minimum Allocation: 0.1 BNB
+
+Maximum Allocation: 2 BNB
+
+95% Liquidity locked
+
 
 ### Contract
 0xd9c99510a5e3145359d91fe9caf92dd5d68b603a
