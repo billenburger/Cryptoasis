@@ -42,7 +42,7 @@ Hardcap: 20 BNB
 
 Minimum Allocation: 0.1 BNB
 
-Maximum Allocation: 2 BNB
+Maximum Allocation: 1 BNB
 
 95% Liquidity locked
 
