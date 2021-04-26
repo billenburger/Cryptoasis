@@ -1,6 +1,6 @@
 ## Welcome to the Oasis
 
-We r just a smol community with lots of dumb big brains, making money in crypto. Safemoon is stupid. We r better. Simple as that. If u no fuck w tha vision vro, have fun being poor. Anyways, here's [Wonderwall.](https://www.youtube.com/watch?v=6hzrDeceEKc)
+We're a small Discord community built from the ashes. This token represents the value the community sees within itself, and will be used for the funding, and for the use of future products. Charting, TA, DD, Ape Calls, Wallet Tracking, Listing Alerts, Limit Orders, Auto-buy/sell Listing, and more to come. Welcome to the Oasis, we hope you enjoy your stay.
 
 ### Links
 [Telegram Announcements](https://t.me/CryptOasisDS)
